@@ -3,6 +3,7 @@
 Browser must allow audio. You can click on drums or press corresponding buttons.
 
 #### [Challenged by Londown App Brewery](https://appbrewery.com/)
+#### Copyright by London App Brewery.
 #### Coded by Dennis Rotnov
 
 #### [Please see live page](https://learnfl.github.io/proj-web-drum/)
